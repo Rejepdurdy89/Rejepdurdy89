@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rejepdurdy89
+- 👀 I’m interested in game develop
+- 🌱 I’m currently learning C#
